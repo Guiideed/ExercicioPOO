@@ -1,4 +1,7 @@
 package principal;
+/*programa que faz a leitura da altura e largura de um retangulo, depois
+ mostra na tela o perimetro, area e diagonal*/
+
 import java.util.Scanner;
 import java.util.Locale;
 import classeRetangulo.Retangulo;
